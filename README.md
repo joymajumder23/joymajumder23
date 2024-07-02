@@ -1,4 +1,4 @@
-<img src="https://github.com/joymajumder23/joymajumder/blob/main/assets/images/github-header-image.png">
+<img src="https://github.com/joymajumder23/joymajumder23/blob/main/assets/images/github-header-image%20(1).png">
 <p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
  <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
  <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
