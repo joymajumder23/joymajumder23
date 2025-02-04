@@ -7,7 +7,7 @@
 <a href="https://dev.to/joymajumder"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 - 🌱 I’m currently learning **Next.js, Python, PHP**
 
-- 👨‍💻 All of my projects are available at [joymajumder23.github.io/portfolio-2023](joymajumder23.github.io/portfolio-2023)
+- 👨‍💻 All of my projects are available at [joymajumder23.github.io/portfolio-2023](https://joymajumder23.github.io/portfolio-2023)
 
 - 💬 Ask me about **Another chapter of my life started in my varsity life. Then many basic programming languages had to be learned and practiced. I got an interest in it. Take a development course and learn a lot - HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, and etc.**
 
